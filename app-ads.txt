@@ -1173,6 +1173,7 @@ risecodes.com, 6a32507234030900017ca985, RESELLER
 firstimpression.io,5003,reseller
 pubmatic.com, 168196, RESELLER, 5d62403b186f2ace
 bigo.sg,mh9dh40uhy,DIRECT
+bigo.sg,exih2memhw,DIRECT
 
 #pangle
 pangleglobal.com, 5030906, DIRECT
