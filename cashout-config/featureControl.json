@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "configVersion": 9,
-  "updatedAt": "2026-08-06T05:38:31.000Z",
+  "configVersion": 10,
+  "updatedAt": "2026-09-30T06:09:35.158Z",
   "features": {
     "gameplay.dynamicLevels": {
       "enabled": true,
@@ -73,12 +73,14 @@
         "mediumForceThreshold": 3,
         "mediumArrowThreshold": 11,
         "mediumAdInterval": 30,
-        "lowForceThreshold": 3,
+        "lowForceThreshold": 4,
         "lowArrowThreshold": 14,
         "lowAdInterval": 30,
         "unknownForceThreshold": 3,
         "unknownArrowThreshold": 14,
-        "unknownAdInterval": 30
+        "unknownAdInterval": 30,
+        "forceThresholdRandomMax": 2,
+        "sustainedPlayerForceReduction": 0
       }
     },
     "performance.runtimeThrottle": {
